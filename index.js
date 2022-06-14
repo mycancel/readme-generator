@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
-const { generateMarkdown } = require('./utils/generateMarkdown');
+const utils = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -40,6 +40,11 @@ const questions = [
         name: 'contribution',
     },
     {
+        type: 'input',
+        message: 'What are your test instructions?',
+        name: 'test',
+    },
+    {
         type: 'rawlist',
         message: 'What license should be applied?',
         choices: [
@@ -62,7 +67,7 @@ function init() {
     inquirer.prompt(questions).then((answers) => {
         // console.log(answers);
         console.log('Markdown is Generating...')
-        generateMarkdown(answers);
+        utils.generateMarkdown(answers);
     });
 }
 
