@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+const fs = require('fs');
 const inquirer = require('inquirer');
 const utils = require('./utils/generateMarkdown');
 
@@ -60,14 +61,18 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+function writeToFile(answers) { 
+    fs.writeFileSync('./output/README.md', utils.generateMarkdown(answers));
+    console.log('Template Generated!');
+    process.exit();
+}
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((answers) => {
         // console.log(answers);
         console.log('Markdown is Generating...')
-        utils.generateMarkdown(answers);
+        writeToFile(answers);
     });
 }
 
