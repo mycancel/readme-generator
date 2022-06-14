@@ -53,7 +53,6 @@ const questions = [
             "GPL",
             "Apache",
             "MIT",
-            "CC",
             "BSD",
         ],
         name: 'license',

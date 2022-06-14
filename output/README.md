@@ -1,6 +1,6 @@
-# This is my title
+# Titling this project
 
-![License](https://img.shields.io/badge/License-MIT-teal)
+![License](https://img.shields.io/badge/License-Apache-teal)
 
 ## Table of Contents
 
@@ -14,27 +14,27 @@
 
 ## Description
 
-describing this now
+describing my project
 
 ## Installation
 
-installing the project
+installing my project
 
 ## Usage
 
-using the project
+using my project
 
 ## License
 
-
+The Apache License requires license notifications and copyrights on the distributed code and/or as a notice in the software. However, derivative works, larger projects, or modifications are allowed to carry different licensing terms when distributed and are not required to provide source code. Apache licenses contain a patent grant ( [Source](https://snyk.io/learn/open-source-licenses/) ).
 
 ## Contribution
 
-who contributing the project
+contributing to my project
 
 ## Test Instructions
 
-testing the project
+testing this project
 
 ## Questions
 
