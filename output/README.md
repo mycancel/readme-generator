@@ -1,6 +1,6 @@
-# 
+# d
 
-![License](https://img.shields.io/badge/License-MIT-teal)
+[![License](https://img.shields.io/badge/License-BSD-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Table of Contents
 
@@ -14,29 +14,31 @@
 
 ## Description
 
-
+d
 
 ## Installation
 
-
+d
 
 ## Usage
 
-Using the project
+d
 
 ## License
 
-The MIT License, which bears the name of the famous university where it originated, is perhaps the most used open source license in the world, perhaps because it is very short and clear and easy to understand. Iit allows anyone to do whatever they wish with the original code, as long as the original copyright and license notice is included either in the distributed source code or software. It removes any liability from authors and does not explicitly contain a patent grant ( [Source](https://snyk.io/learn/open-source-licenses/) ).
+The Berkeley Source Distribution (BSD)  License is another permissive open source license that preserves license notices and copyrights but allows larger or licensed works to be distributed without source code and under different license terms. The 2- clause BSD License is very similar to the MIT open source license, while the 3-clause and 4-clause BSD licenses add more requirements or restrictions related to reuse and other terms ( [Source](https://snyk.io/learn/open-source-licenses/) ).
+
+For more detailed information, click [here](https://opensource.org/licenses/BSD-3-Clause).
 
 ## Contribution
 
-Contributing
+d
 
 ## Test Instructions
 
-
+d
 
 ## Questions
 
-- [Github](https://github.com/)
-- [Email](mailto:email address)
+- [Github](https://github.com/d)
+- [Email](mailto:d)
