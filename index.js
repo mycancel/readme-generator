@@ -68,9 +68,9 @@ function writeToFile(answers) {
 
 // TODO: Create a function to initialize app
 function init() {
+    console.log('Answer these questions to generate your README.md!');
     inquirer.prompt(questions).then((answers) => {
-        // console.log(answers);
-        console.log('Markdown is Generating...')
+        console.log('Markdown is Generating...');
         writeToFile(answers);
     });
 }

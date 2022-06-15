@@ -1,6 +1,6 @@
-# Titling this project
+# 
 
-![License](https://img.shields.io/badge/License-Apache-teal)
+![License](https://img.shields.io/badge/License-MIT-teal)
 
 ## Table of Contents
 
@@ -14,29 +14,29 @@
 
 ## Description
 
-describing my project
+
 
 ## Installation
 
-installing my project
+
 
 ## Usage
 
-using my project
+Using the project
 
 ## License
 
-The Apache License requires license notifications and copyrights on the distributed code and/or as a notice in the software. However, derivative works, larger projects, or modifications are allowed to carry different licensing terms when distributed and are not required to provide source code. Apache licenses contain a patent grant ( [Source](https://snyk.io/learn/open-source-licenses/) ).
+The MIT License, which bears the name of the famous university where it originated, is perhaps the most used open source license in the world, perhaps because it is very short and clear and easy to understand. Iit allows anyone to do whatever they wish with the original code, as long as the original copyright and license notice is included either in the distributed source code or software. It removes any liability from authors and does not explicitly contain a patent grant ( [Source](https://snyk.io/learn/open-source-licenses/) ).
 
 ## Contribution
 
-contributing to my project
+Contributing
 
 ## Test Instructions
 
-testing this project
+
 
 ## Questions
 
-- [Github](https://github.com/mycancel)
-- [Email](mailto:mary.cance3@gmail.com)
+- [Github](https://github.com/)
+- [Email](mailto:email address)
