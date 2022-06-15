@@ -37,7 +37,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Who contributed to your project?',
+        message: 'How can other users contribute to your project?',
         name: 'contribution',
     },
     {
