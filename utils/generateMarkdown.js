@@ -79,7 +79,7 @@ ${renderLicenseBadge(license)}${renderLicenseLink(license)}
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribution](#contribution)
+- [Contributing](#contributing)
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 
@@ -101,7 +101,7 @@ ${renderLicenseSection(license)}
 
 For more detailed information, click [here]${renderLicenseLink(license)}.
 
-## Contribution
+## Contributing
 
 ${contribution}
 
@@ -111,8 +111,8 @@ ${test}
 
 ## Questions
 
-- [Github](https://github.com/${username})
-- [Email](mailto:${email})
+To see more of my projects or contact me, visit my [Github](https://github.com/${username}).
+If you have additional questions, [email me](mailto:${email}).
 `
   );
 

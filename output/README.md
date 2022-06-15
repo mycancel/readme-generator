@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribution](#contribution)
+- [Contributing](#contributing)
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 
@@ -30,7 +30,7 @@ The Berkeley Source Distribution (BSD)  License is another permissive open sourc
 
 For more detailed information, click [here](https://opensource.org/licenses/BSD-3-Clause).
 
-## Contribution
+## Contributing
 
 d
 
